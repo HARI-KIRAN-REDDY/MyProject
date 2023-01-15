@@ -7,3 +7,4 @@ One more line in test-branch
 
 
 New additional commit
+second additional
