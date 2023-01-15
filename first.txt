@@ -4,7 +4,7 @@ New line inserted
 New line inserted in first file in test-branch
 One more line in test-branch
 
-
-
 New additional commit
 second additional
+Master branch insertion
+
